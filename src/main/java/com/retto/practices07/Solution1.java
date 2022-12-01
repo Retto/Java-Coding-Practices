@@ -1,4 +1,4 @@
-package com.retto.practices7;
+package com.retto.practices07;
 
 public class Solution1 {
 

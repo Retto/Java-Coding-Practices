@@ -1,4 +1,4 @@
-package com.retto.practices1;
+package com.retto.practices01;
 
 import java.util.Arrays;
 
@@ -17,7 +17,7 @@ import java.util.Arrays;
  * Challenge: Try sorting the list using constant space.
  *
  */
-public class Problem1 {
+public class Solution {
 
 	/**
 	 * Solution: There are only 3 unique numbers. So, count them and construct

@@ -1,4 +1,4 @@
-package com.retto.practices5;
+package com.retto.practices05;
 
 import java.util.ArrayList;
 import java.util.Arrays;

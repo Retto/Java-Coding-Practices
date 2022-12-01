@@ -1,4 +1,4 @@
-package com.retto.practices2;
+package com.retto.practices02;
 
 import java.util.HashSet;
 import java.util.Set;
@@ -11,7 +11,7 @@ You are given a list of numbers, and a target number k. Return whether or not th
 Solution: Use Set data structure to solve problem
  *
  */
-public class Problem2 {
+public class Solution {
 	
 	private static boolean two_sum(int[] numbers, int k) {
 		Set<Integer> set = new HashSet<Integer>();

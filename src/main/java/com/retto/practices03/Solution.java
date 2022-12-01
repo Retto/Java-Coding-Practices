@@ -1,4 +1,4 @@
-package com.retto.practices3;
+package com.retto.practices03;
 
 import java.util.Stack;
 
@@ -13,7 +13,7 @@ Here is the definition of a node for the tree.
 Solution: Use Stack data structure to solve problem
  *
  */
-public class Problem3 {
+public class Solution {
 	   
     private static void findCeilingFloor(Node root, int k) {
         // System.out.println("root:" + root);
