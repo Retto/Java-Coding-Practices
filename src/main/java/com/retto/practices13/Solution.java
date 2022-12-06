@@ -34,8 +34,8 @@ public class Solution {
             line = bufReader.readLine();
         }
         
-        printArray(inputIntegers.toArray(new Integer[]{}));
-        printArray(inputStrings.toArray(new String[] {}));
+        printArray(inputIntegers.toArray());
+        printArray(inputStrings.toArray());
         
         }catch(IOException exception) {
            exception.printStackTrace();
